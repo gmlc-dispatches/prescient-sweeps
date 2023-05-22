@@ -1,2 +1,0 @@
-set -e
-idaes get-extensions --verbose --distro ubuntu1804
